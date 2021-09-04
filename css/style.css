@@ -12,7 +12,7 @@ body {
 .block{
     background-color: hsl(244, 38%, 16%);
     margin: auto;
-    margin-top: 150px;
+    margin-top: 200px;
     margin-bottom: 30px;
     width: 1000px;
     padding: 0;
@@ -64,4 +64,7 @@ body {
 .info p{
     margin: 5px;
     text-transform: uppercase;
+}
+.attribution{
+    margin: 20px;
 }
