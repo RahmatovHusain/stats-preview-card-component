@@ -11,8 +11,10 @@ body {
 }
 .block{
     background-color: hsl(244, 38%, 16%);
-    margin: 100px auto;
-    width: 900px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 30px;
+    width: 1000px;
     padding: 0;
     display: flex;
     flex-direction: row;
@@ -26,11 +28,11 @@ body {
 }
 .block .color{
     border-radius:0 10px 10px 0;
-    width: 450px;
+    width: 500px;
     background-color: hsl(277, 64%, 61%);
 }
 .box{
-    width: 450px;
+    width: 500px;
 }
 .box_1{
     width: 80%;
